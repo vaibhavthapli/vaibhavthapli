@@ -12,3 +12,4 @@
 * Create a model that help people who live in USA, Japan and Europe.
 * Use Artificial Neural Network for make this model.
 * Reglarised ANN by using EarlyStopping.
+![](image.jpg)
