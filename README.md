@@ -1,5 +1,5 @@
-# Vaibhav_Portfolio
-Data Science portfolio
+#                                            Vaibhav_Portfolio
+                                        Data Science portfolio
 
 # [Project 1 : Diabetes prediction](https://github.com/vaibhavthapli/Diabetes_prediction)
 
