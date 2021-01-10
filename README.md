@@ -1,4 +1,4 @@
-                                        #  Vaibhav_Portfolio
+ #  Vaibhav_Portfolio
                                         Data Science portfolio
 
 
@@ -20,6 +20,5 @@
 * Create a model that help people who live in USA, Japan and Europe.
 * Use Artificial Neural Network for make this model.
 * Reglarised ANN by using EarlyStopping.
-
 ![](https://github.com/vaibhavthapli/Vaibhav_Portfolio/blob/main/images/mlp.png)  
 
