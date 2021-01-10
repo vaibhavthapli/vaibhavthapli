@@ -21,4 +21,5 @@
 * Use Artificial Neural Network for make this model.
 * Reglarised ANN by using EarlyStopping.
 
-![](https://github.com/vaibhavthapli/Vaibhav_Portfolio/blob/main/images/mlp.png)
+![](https://github.com/vaibhavthapli/Vaibhav_Portfolio/blob/main/images/mlp.png)  
+
