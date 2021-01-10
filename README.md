@@ -8,6 +8,7 @@
 * The Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems,  and can also be found on the UCI Machine Learning Repository.
 * I was able to get the model to predict the species with 97% accuracy after using SVC.
 
+![](https://github.com/vaibhavthapli/Vaibhav_Portfolio/blob/main/images/mlp.png)
 
 
 # [Project 2 : Diabetes prediction](https://github.com/vaibhavthapli/Diabetes_prediction)
