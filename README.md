@@ -1,4 +1,4 @@
- #H1 Vaibhav S. Thapli
+ # Vaibhav S. Thapli
  
                                         Data Science portfolio
 
