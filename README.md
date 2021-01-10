@@ -1,6 +1,6 @@
  # Vaibhav S. Thapli
  
-                                        Data Science portfolio
+                                        
 
 
 # [Project 1 : Iris Species prediction](https://github.com/vaibhavthapli/Iris-Species-prediction)
