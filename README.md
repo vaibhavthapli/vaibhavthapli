@@ -17,10 +17,6 @@
 - 🌱 I’m currently sharpening my skills in the field of Computer Vision. 
 - 🥅 2022 Goals: Contributing more in the field of NLP and CV, creating SOTA Object detection Models and deploy them in edge devices. 
 
-## Spotify Playing 🎧
-
-[![Spotify](https://novatorem-alpha-amber.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-alpha-amber)
-
  
 ## My Tech Stack
 <p float="left">
