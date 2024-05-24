@@ -3,7 +3,7 @@
 # Get in Touch 👋
 <p float="left">
 
-<a href = "mailto:vaibhavthaplidoon@gmail.com" > <img align = "left" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href = "mailto:hellovaibt@gmail.com" > <img align = "left" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 <a href = "https://www.linkedin.com/in/vaibhavthapli/" > <img align = "left" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
@@ -15,7 +15,7 @@
  
  # I'm a Machine Learning Engineer from India! 
 - 🌱 I’m currently sharpening my skills in the field of Computer Vision. 
-- 🥅 2024 Goals: Contributing more in the field of NLP and CV, creating SOTA Object detection Models and deploy them in edge devices. 
+- 🥅 2024 Goals: Contributing more in the field of NLP and CV, creating SOTA Object detection Models and deploying them in edge devices. 
 
  
 ## My Tech Stack
