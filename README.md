@@ -1,4 +1,4 @@
-# Hi there, I'm Vaibhav Singh Thapli 👋
+# Hi there 👋
 
 <img src = "https://github.com/user-attachments/assets/db8fda1b-f2f4-47ba-829e-1eccdcc378c0"/>
 
@@ -14,9 +14,9 @@
 <br>
 </br>
  
- # I'm a Full Stack Data Scientist from India! 
-- 🌱 I’m currently sharpening my skills in the field of Data Science || Artificial Intelligence. 
-- 🥅 Goals: Contributing more in the field of AI Research. 
+ # Work
+- 🌱 Sharpening my Data Science skills || Artificial Intelligence. 
+- 🥅 Goals: Contributing more to the field of AI Research. 
 
  
 ## My Tech Stack
