@@ -1,6 +1,6 @@
 # Hi there, I'm Vaibhav Singh Thapli 👋
 
-<img src = "[https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white](https://media.licdn.com/dms/image/v2/D5616AQExJfQpvSSpow/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727190702723?e=1732752000&v=beta&t=EHMLG8Efq_um8g59dnHEYdWshUY0lu7tHHNU-0EGYL8)"/> 
+<img src = "https://www.canva.com/design/DAGRr7uu1qw/c8KfB1KBWmliDjwLtaj52A/watch?utm_content=DAGRr7uu1qw&utm_campaign=designshare&utm_medium=link&utm_source=editor"/> 
 
 # Get in Touch 👋
 <p float="left">
