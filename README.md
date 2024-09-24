@@ -1,6 +1,6 @@
 # Hi there, I'm Vaibhav Singh Thapli 👋
 
-https://github.com/user-attachments/assets/2979755a-7885-4844-9317-d355e2d41de1
+<img src = "https://github.com/user-attachments/assets/db8fda1b-f2f4-47ba-829e-1eccdcc378c0"/>
 
 # Get in Touch 👋
 <p float="left">
