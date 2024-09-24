@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img src = "https://github.com/user-attachments/assets/7abfc44e-e9b8-4cc5-addc-833d731a45e3"/>
+<img src = "https://github.com/user-attachments/assets/f18fc25c-2ecc-4a5e-b97b-548e0dfb2658"/>
 
 # Get in Touch 👋
 <p float="left">
