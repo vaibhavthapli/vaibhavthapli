@@ -1,6 +1,6 @@
 # Hi there, I'm Vaibhav Singh Thapli 👋
 
-<img src = "https://www.canva.com/design/DAGRr7uu1qw/c8KfB1KBWmliDjwLtaj52A/watch?utm_content=DAGRr7uu1qw&utm_campaign=designshare&utm_medium=link&utm_source=editor"/> 
+https://github.com/user-attachments/assets/2979755a-7885-4844-9317-d355e2d41de1
 
 # Get in Touch 👋
 <p float="left">
