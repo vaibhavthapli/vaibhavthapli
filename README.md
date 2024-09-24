@@ -13,9 +13,9 @@
 <br>
 </br>
  
- # I'm a Machine Learning Engineer from India! 
-- 🌱 I’m currently sharpening my skills in the field of Computer Vision. 
-- 🥅 2024 Goals: Contributing more in the field of NLP and CV, creating SOTA Object detection Models and deploying them in edge devices. 
+ # I'm a Full Stack Data Scientist from India! 
+- 🌱 I’m currently sharpening my skills in the field of Data Science || Artificial Intelligence. 
+- 🥅 Goals: Contributing more in the field of AI Research. 
 
  
 ## My Tech Stack
